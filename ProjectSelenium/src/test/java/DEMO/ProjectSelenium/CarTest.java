@@ -6,25 +6,9 @@ public class CarTest {
 	
 	
 	@Test
-	public void car1()
+	public void vaccine()
 	{
-		System.out.println("Car1 Test Case");
-	}
-	
-	@Test
-	public void car2()
-	{
-		System.out.println("Car2 Test Case");
-	}
-	@Test
-	public void car3()
-	{
-		System.out.println("Car2 Test Case");
-	}
-	@Test
-	public void car4()
-	{
-		System.out.println("Car2 Test Case");
+		System.out.println("Vaccine Test Case");
 	}	
 
 }
