@@ -16,5 +16,15 @@ public class CarTest {
 	{
 		System.out.println("Car2 Test Case");
 	}
+	@Test
+	public void car3()
+	{
+		System.out.println("Car2 Test Case");
+	}
+	@Test
+	public void car4()
+	{
+		System.out.println("Car2 Test Case");
+	}	
 
 }
